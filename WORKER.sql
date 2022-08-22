@@ -1,0 +1,11 @@
+insert into worker values ('1', 'ADI')
+
+insert into worker values ('2', 'OSNAT')
+insert into worker values ('3', 'ALON')
+insert into worker values ('4', 'IGAL')
+insert into worker values ('5', 'ADIR')
+insert into worker values ('6', 'OFEK')
+insert into worker values ('7', 'SIBIL')
+insert into worker values ('8', 'MILKA')
+insert into worker values ('9', 'MAY')
+insert into worker values ('10', 'TEHILA')
